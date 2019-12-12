@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+  <question score="20">
+    <body>那一隻熊最勵害?</body>
+    <item correct="false">白熊</item>
+    <item correct="false">黑熊</item>
+    <item correct="false">棕熊</item>
+    <item correct="true">灰熊</item>
+  </question>
+ 
+  <question score="40">
+    <body>誰發現萬有引力?</body>
+    <item correct="false">鼠頓</item>
+    <item correct="true">牛頓</item>
+    <item correct="false">虎頓</item>
+    <item correct="false">兔頓</item>
+  </question>
+ 
+  <question score="40">
+    <body>下列那些東西是可以吃的?</body>
+    <item correct="false">東瓜</item>
+    <item correct="true">西瓜</item>
+    <item correct="true">南瓜</item>
+    <item correct="false">北瓜</item>
+  </question>
+</quiz>

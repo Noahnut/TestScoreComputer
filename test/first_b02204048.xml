@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+  <question>
+    <item checked="false" />
+    <item checked="false" />
+    <item checked="false" />
+    <item checked="" />
+  </question>
+  <question>
+    <item checked="false" />
+    <item checked="true" />
+    <item checked="false" />
+    <item checked="false" />
+  </question>
+  <question>
+    <item checked="false" />
+    <item checked="true" />
+    <item checked="true" />
+    <item checked="false" />
+  </question>
+</quiz>
